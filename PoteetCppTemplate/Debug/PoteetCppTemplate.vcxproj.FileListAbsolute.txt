@@ -1,0 +1,2 @@
+C:\Users\gwlpo\OneDrive\Documents\GitHub\PoteetCppTemplate\PoteetCppTemplate\Debug\PoteetCppTemplate.exe
+C:\Users\gwlpo\OneDrive\Documents\GitHub\PoteetCppTemplate\PoteetCppTemplate\Debug\PoteetCppTemplate.pdb
